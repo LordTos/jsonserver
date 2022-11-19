@@ -1,0 +1,6 @@
+{
+    "/produtos/Hamburguer": "/produtos?tipo_like=Burguer",
+    "/produtos/X-": "/produtos?tipo_like=X",
+
+    "/prudutos/hamburguer/Hambúrguer": "produtos/1"
+}
