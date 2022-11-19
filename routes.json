@@ -1,6 +1,9 @@
 {
     "/produtos/Hamburguer": "/produtos?tipo_like=Burguer",
-    "/produtos/X-": "/produtos?tipo_like=X",
+    "/produtos/X-": "/produtos?tipo_like=X-",
 
-    "/prudutos/hamburguer/Hambúrguer": "produtos/1"
+    "/prudutos/hamburguer/Hambúrguer": "produtos/1",
+    "/prudutos/X-/X-Búrguer": "produtos/2",
+    "/prudutos/X-/X-Bacon": "produtos/3",
+    "/prudutos/X-/X-Tudo": "produtos/4"
 }
